@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="62880" started-at="2020-06-01T19:11:43 IST" finished-at="2020-06-01T19:12:46 IST">
+    <groups>
+    </groups>
+    <test name="Add Customer Test" duration-ms="62880" started-at="2020-06-01T19:11:43 IST" finished-at="2020-06-01T19:12:46 IST">
+      <class name="com.w2a.testcases.bankmanagerLoginTest2">
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.w2a.testcases.bankmanagerLoginTest2@11a9e7c8]" name="checkTestSkip" is-config="true" duration-ms="2" started-at="2020-06-01T19:11:43 IST" finished-at="2020-06-01T19:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="test2(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.bankmanagerLoginTest2@11a9e7c8]" name="test2" duration-ms="18446" started-at="2020-06-01T19:12:26 IST" data-provider="getTestData" finished-at="2020-06-01T19:12:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Results=Pass, password=AWWEE22, Runmode=Y, Error=, username=HSHOLAPUR@HOTMAUL.COM}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="reportDatasetResult()[pri:0, instance:com.w2a.testcases.bankmanagerLoginTest2@11a9e7c8]" name="reportDatasetResult" is-config="true" duration-ms="1356" started-at="2020-06-01T19:12:44 IST" finished-at="2020-06-01T19:12:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDatasetResult -->
+      </class> <!-- com.w2a.testcases.bankmanagerLoginTest2 -->
+      <class name="com.w2a.testcases.BankmanagerLoginTest1">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="checkSuiteSkip" is-config="true" duration-ms="605" started-at="2020-06-01T19:11:42 IST" finished-at="2020-06-01T19:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="checkTestSkip" is-config="true" duration-ms="4" started-at="2020-06-01T19:11:43 IST" finished-at="2020-06-01T19:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="test1" duration-ms="22683" started-at="2020-06-01T19:11:43 IST" data-provider="getTestData" finished-at="2020-06-01T19:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Results=Pass, password=abcabc, Runmode=Y, Error=, username=DASSY25007@GMAIL.COM}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="reportDatasetResult()[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="reportDatasetResult" is-config="true" duration-ms="230" started-at="2020-06-01T19:12:06 IST" finished-at="2020-06-01T19:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDatasetResult -->
+        <test-method status="PASS" signature="test1(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="test1" duration-ms="19243" started-at="2020-06-01T19:12:06 IST" data-provider="getTestData" finished-at="2020-06-01T19:12:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Results=Pass, password=sgshsjsljslkjsklks, Runmode=Y, Error=, username=harishkumar@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="reportDatasetResult()[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="reportDatasetResult" is-config="true" duration-ms="853" started-at="2020-06-01T19:12:25 IST" finished-at="2020-06-01T19:12:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDatasetResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.BankmanagerLoginTest1@3b07a0d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-06-01T19:12:46 IST" finished-at="2020-06-01T19:12:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.BankmanagerLoginTest1 -->
+    </test> <!-- Add Customer Test -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

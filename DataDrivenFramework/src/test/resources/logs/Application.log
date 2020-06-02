@@ -1,0 +1,28 @@
+01/06/2020 19:11:43 devpinoyLogger Suitexls file loaded !!!
+01/06/2020 19:11:43 devpinoyLogger loginsuite1xls file loaded !!!
+01/06/2020 19:11:43 devpinoyLogger loginsuitexls file loaded !!!
+01/06/2020 19:11:43 devpinoyLogger Config file loaded !!!
+01/06/2020 19:11:43 devpinoyLogger OR file loaded !!!
+01/06/2020 19:11:43 devpinoyLogger Checking Runmode of suitexls
+01/06/2020 19:11:48 devpinoyLogger Chrome Launched !!!
+01/06/2020 19:11:58 devpinoyLogger Navigated to : http://automationpractice.com/
+01/06/2020 19:12:03 devpinoyLogger Clicking on the object :Sign in
+01/06/2020 19:12:03 devpinoyLogger Inputs  on the object :email
+01/06/2020 19:12:03 devpinoyLogger Inputs  on the object :passwd
+01/06/2020 19:12:05 devpinoyLogger Clicking on the object :SubmitLogin
+01/06/2020 19:12:05 devpinoyLogger Closing the Browser
+01/06/2020 19:12:10 devpinoyLogger Chrome Launched !!!
+01/06/2020 19:12:17 devpinoyLogger Navigated to : http://automationpractice.com/
+01/06/2020 19:12:22 devpinoyLogger Clicking on the object :Sign in
+01/06/2020 19:12:22 devpinoyLogger Inputs  on the object :email
+01/06/2020 19:12:22 devpinoyLogger Inputs  on the object :passwd
+01/06/2020 19:12:24 devpinoyLogger Clicking on the object :SubmitLogin
+01/06/2020 19:12:24 devpinoyLogger Closing the Browser
+01/06/2020 19:12:30 devpinoyLogger Chrome Launched !!!
+01/06/2020 19:12:38 devpinoyLogger Navigated to : http://automationpractice.com/
+01/06/2020 19:12:42 devpinoyLogger Clicking on the object :Sign in
+01/06/2020 19:12:42 devpinoyLogger Inputs  on the object :email
+01/06/2020 19:12:42 devpinoyLogger Inputs  on the object :passwd
+01/06/2020 19:12:43 devpinoyLogger Clicking on the object :SubmitLogin
+01/06/2020 19:12:43 devpinoyLogger Closing the Browser
+01/06/2020 19:12:46 devpinoyLogger test suite execution completed !!!
